@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![abouregb's 42 stats](https://badge.mediaplus.ma/greenbinary/abouregb)](https://github.com/oakoudad/badge42)
 <!--
 **med06x/med06x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
